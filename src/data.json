@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "Viraj",
+        "content": "Hello world!",
+        "image":"./images/myweb1T.png"
+    },
+    {
+        "id":2,
+        "name": "Kamal",
+        "content": "Hello world!",
+        "image":"./images/myweb2T.png"
+    },
+    {
+        "id":3,
+        "name": "Anil",
+        "content": "Hello world!",
+        "image":"./images/myweb3T.png"
+    },
+    {
+        "id":4,
+        "name": "Nimal",
+        "content": "Hello world!",
+        "image":"./images/myweb4T.png"
+    },
+    {
+        "id":5,
+        "name": "Sunil",
+        "content": "Hello world!",
+        "image":"./images/myweb5.png"
+    }
+]
